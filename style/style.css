@@ -1,0 +1,67 @@
+/* header */
+.navbar{
+    justify-content: space-between;
+    margin-right: 30px;
+}
+
+.nav-item{
+    list-style: none;
+    margin-left: 30px;
+}
+
+.nav-link{
+    text-decoration: none;
+    font-size: 600;
+    color: #3A3A3A;
+}
+
+.img{
+    width: 15px;
+    height: 15px;
+
+}
+
+.title{
+    width: 528px;
+    height: 285px;
+    font-weight: 700;
+    font-size: 3.25rem;
+    margin-top: 60px;
+}
+
+.title-father{
+    margin-top: 40px;
+}
+
+.title-discription{
+    font-size: 1rem;
+    margin-top: -150px;
+    font-weight: 500;
+    width: 500px;
+    height: 60px;
+    color: #3A3A3A;
+}
+.btn-primary{
+    background-color: #E02C6D;
+    color: white;
+    border-radius: 25px;
+    padding: 10px;
+    width: 170px;
+    height: 30ox;
+    font-size: 1rem;
+    font-weight: 600px;
+}
+
+.title-father{
+    margin-right: 30px;
+}
+
+.cam-img{
+    margin-left: 280px;
+    margin-top: 50px;
+}
+
+/* shared style */
+.display-flex{
+    display: flex;
+}
